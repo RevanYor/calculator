@@ -65,3 +65,5 @@ function multiply (firstNum, secondNum) {
 function divide (firstNum, secondNum) {
     return result = firstNum / secondNum;
 }
+
+//Need to add multiple operations at once functionality
